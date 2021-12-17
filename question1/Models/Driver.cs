@@ -44,7 +44,7 @@ namespace question1.Models
                                 Console.WriteLine("Building Code: ");
                                 newBuildingInfo.BuildingCode = Console.ReadLine();
                                 newBuildingInfo.ListOfBuildingCodes.Add(newBuildingInfo);
-                                buildingCode.ListBuildingCodes(false);
+                                buildingCode.ListBuildingCodes();
                                 break;
                             default:
                                 keepLoop = true;

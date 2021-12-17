@@ -1,5 +1,4 @@
-﻿using question1.Models;
-using System;
+﻿using System;
 
 namespace oop_exam_dec_2021_24061
 {

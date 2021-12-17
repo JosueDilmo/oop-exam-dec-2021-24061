@@ -6,7 +6,7 @@ namespace question4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Question 4 - 24061");
         }
     }
 }

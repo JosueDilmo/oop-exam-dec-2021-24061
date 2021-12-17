@@ -1,0 +1,35 @@
+﻿Write notes on the following terms: 
+1.	inheritance, 
+2.	polymorphism, 
+3.	static member variables and methods,
+4.	interfaces, and 
+5.	abstract classes. 
+Your answer should include an explanation of each term, example of its use and an explanation of when you would use it.
+
+1- Inheritance eliminate redundant code and 
+reuse fields and methods of an existing class when the user create a new class.
+the parent class its the class being inherited from;
+the child class its the class that inherits from another class;
+Using inheritance you can create a class base and later you can create a new class that will
+have the same fields or methods without typing all the code again.
+
+2- Polymorphism reuse methods to perform different tasks. 
+Polymorphism allow the user to perform a single action in different ways.
+Derived classes of a Parent class Vehicle with a method vehicleHonk() could
+have their own implementation of vehicleHonk (car bibi, bus fonfon, motorbike anothersound).
+
+
+
+4 -Interfaces are implemented by a class implicitly or explicitly. Like a class 
+an Interface can have methods, properties, events and indexers. It should
+be fully implemented. Interfaces are used to implement peripheral abilities
+of class. It contains only a declaration part and methods. It does not 
+contain constructor or static members, it only contains public access 
+modifiers.
+
+
+5 - Abstract classes are used as a base class in class hierarchy, 
+it is used to implement the core identity of class. It can be fully, 
+partially or not implemented. Abstract classes must have at least one
+abstract method (which can be override in the child class). Abstract classes
+is a way to achieve abstraction and make the code more secure.
