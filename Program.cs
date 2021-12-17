@@ -1,4 +1,5 @@
-﻿using System;
+﻿using question1.Models;
+using System;
 
 namespace oop_exam_dec_2021_24061
 {
@@ -6,7 +7,7 @@ namespace oop_exam_dec_2021_24061
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("OOP EXAM 24061 - JOSUE SANTOS");
         }
     }
 }

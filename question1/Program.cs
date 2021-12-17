@@ -1,4 +1,5 @@
-﻿using System;
+﻿using question1.Models;
+using System;
 
 namespace question1
 {
@@ -6,7 +7,13 @@ namespace question1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Question 1B - 24061");
+
+            Driver driver = new Driver();
+            driver.startDriver();
+            
+
         }
     }
 }
+

@@ -1,0 +1,2 @@
+﻿a)	What does it mean to declare a class sealed?
+	Means it is a restricted class and it has more control over inheritance.
